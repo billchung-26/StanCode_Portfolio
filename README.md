@@ -12,8 +12,8 @@ This collection showcases projects completed in my introductory Python coding co
 
 These projects focus on iterating through images and modifying them at the pixel level to achieve visual effects and analysis. 
 
-* **Mirror Lake Reflection [mirror_lake.py] (https://github.com/billchung-26/StanCode_Portfolio/blob/main/mirror_lake.py):** Implemented coordinate transformation logic to create a vertical mirror reflection, doubling the image height and copying pixels to create a lake effect.
-* **Fire Detection Filter (`fire.py`):** Developed a filter that detects potential fire pixels by comparing the red channel intensity against the average RGB intensity, highlighting them in pure red and converting non-fire areas to grayscale.
+* **Mirror Lake Reflection [mirror_lake.py](https://github.com/billchung-26/StanCode_Portfolio/blob/main/mirror_lake.py):** Implemented coordinate transformation logic to create a vertical mirror reflection, doubling the image height and copying pixels to create a lake effect.
+* **Fire Detection Filter [fire.py](https://github.com/billchung-26/StanCode_Portfolio/blob/main/fire.py):** Developed a filter that detects potential fire pixels by comparing the red channel intensity against the average RGB intensity, highlighting them in pure red and converting non-fire areas to grayscale.
 
 ### 2. Data Structures, String & File Handling
 
@@ -27,7 +27,7 @@ These exercises cover essential I/O operations, text analysis, and sequential da
 
 Projects focusing on control flow, modularity, and algorithmic design.
 
-* **ASCII Art Rocket [rocket.py] (https://github.com/billchung-26/StanCode_Portfolio/blob/main/rocket.py):** Used function decomposition (`head`, `belt`, `upper`, `lower`) and nested loops to generate a scaled rocket figure purely from ASCII characters, demonstrating modular design and pattern generation.
+* **ASCII Art Rocket [rocket.py](https://github.com/billchung-26/StanCode_Portfolio/blob/main/rocket.py):** Used function decomposition (`head`, `belt`, `upper`, `lower`) and nested loops to generate a scaled rocket figure purely from ASCII characters, demonstrating modular design and pattern generation.
 * **Random Simulation [python_random_generator.py](https://github.com/billchung-26/StanCode_Portfolio/blob/main/python_random_generator.py):** Designed a program to simulate die rolls and use state flags (`can_add`) to count the number of consecutive identical results ("runs"), illustrating basic simulation logic.
 
 ---
